@@ -1,7 +1,7 @@
 # README
 
 The Sacred Sage <br><br>
-Welome to The Sacred Sage! A place where you can take participate in a quiz and, over the span of 7 questions, receive an analysis of what you're soul is searching for. We also offer product recommendations - please enjoy! 
+Welome to The Sacred Sage! A place where you can take a quiz and, over the span of 7 questions, receive an analysis of what you're soul is searching for. We also offer product recommendations - please enjoy! 
 
 Models and Associations<br><br>
 In this application, we have a user, result and product bundle model. They are associated in the following way:
